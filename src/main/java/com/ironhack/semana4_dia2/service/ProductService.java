@@ -29,7 +29,7 @@ public class ProductService {
             new Product(5L, "Phone", "electronics", 60),
             new Product(6L, "Backpack", "accessories", 30));
 
-    // OPCIÓN 3 - solo si no voy a añadir más productos y no necesito acceder al size
+    // OPCIÓN 3 - solo si no voy a añadir más productos y no necesito acceder al size.
     private final Product[] productArray = {
             new Product(1L, "Laptop", "electronics", 80),
             new Product(2L, "Headphones", "electronics", 20),
